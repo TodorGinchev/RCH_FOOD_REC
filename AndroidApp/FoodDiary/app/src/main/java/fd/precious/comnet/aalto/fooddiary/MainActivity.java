@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//Follow this tutorial if you need to implement changes: https://developer.android.com/training/camera/photobasics.html
 public class MainActivity extends AppCompatActivity {
 
     @Override
