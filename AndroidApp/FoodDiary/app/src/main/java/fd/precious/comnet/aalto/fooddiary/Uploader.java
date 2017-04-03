@@ -30,7 +30,7 @@ public class Uploader {
         URL url = null;
 
         try {
-            url = new URL("write your url here");
+            url = new URL("precious4.research.netlab.hut.fi");
             HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
             urlConnection.setConnectTimeout(10000);
             urlConnection.setReadTimeout(10000);
