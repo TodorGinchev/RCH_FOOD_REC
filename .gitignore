@@ -1,0 +1,40 @@
+    #java class files
+.class
+    #generated files
+bin/
+gen/
+    #android studio files
+*.iml/
+    #local properties e.g sdk path
+local.properties
+
+    #application
+*.apk
+    #intellij idea
+.idea/workspace.xml
+
+    #Todor's List
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+*.iml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+AndroidApp/FoodDiary/.idea/vcs.xml
+AndroidApp/FoodDiary/app/src/main/java/ui/precious/comnet/aalto/precious/ui_MainActivity.java.orig
+AndroidApp/FoodDiary/app/app.iml
+AndroidApp/FoodDiary/.idea/dictionaries/khatt.xml
+AndroidApp/FoodDiary/.idea/misc.xml
+AndroidApp/FoodDiary/.idea/modules.xml
+AndroidApp/FoodDiary/.idea/
+AndroidApp/FoodDiary/.gradle/
