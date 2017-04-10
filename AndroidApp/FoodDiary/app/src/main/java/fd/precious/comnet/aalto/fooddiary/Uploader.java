@@ -1,58 +1,55 @@
 package fd.precious.comnet.aalto.fooddiary;
 
+import android.os.AsyncTask;
 import android.util.Log;
 
-import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.mime.HttpMultipartMode;
-import org.apache.http.entity.mime.MultipartEntityBuilder;
+import org.apache.http.entity.mime.MultipartEntity;
 import org.apache.http.entity.mime.content.FileBody;
+import org.apache.http.impl.client.DefaultHttpClient;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
 
-public class Uploader {
+public class Uploader  {
 
-    public void uploadImage(String imagePath) {
-        String boundary = "*************";
-        MultipartEntityBuilder builder = MultipartEntityBuilder.create();
-        builder.setMode(HttpMultipartMode.BROWSER_COMPATIBLE);
-        FileBody fileBody = new FileBody(new File(imagePath));//pass your image path to make a file
-        builder.addPart("profile_image", fileBody);
-        //TODO uncomment next line if JSON API is used
-        // builder.addPart("data", new StringBody(jsonObject.toString(), ContentType.TEXT_PLAIN));//pass our jsonObject  here
-        HttpEntity entity = builder.build();
+    public static String TAG = "Uploader";
 
-        URL url = null;
+    public static void uploadImage(String imagePath) {
+        Uploader up = new Uploader();
+        PostImage post = up.new PostImage();
+        post.execute(imagePath);
+    }
 
-        try {
-            url = new URL("precious4.research.netlab.hut.fi");
-            HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
-            urlConnection.setConnectTimeout(10000);
-            urlConnection.setReadTimeout(10000);
-            urlConnection.setDoOutput(true);
-            urlConnection.setRequestMethod("POST");
-            urlConnection.addRequestProperty("Content-length", entity.getContentLength() + "");
-            urlConnection.addRequestProperty(entity.getContentType().getName(), entity.getContentType().getValue());
-            OutputStream os = urlConnection.getOutputStream();
-            entity.writeTo(urlConnection.getOutputStream());
-            os.close();
-            urlConnection.connect();
-            InputStream inputStream = urlConnection.getInputStream();
-            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
-            String s = "";
-            StringBuilder stringBuilder = new StringBuilder("");
-            while ((s = bufferedReader.readLine()) != null) {
-                stringBuilder.append(s);
+    public class PostImage extends AsyncTask<String, Integer, Integer> {
+        protected Integer doInBackground(String... imagePath) {
+            Log.i(TAG,"Sending photo...");
+            HttpClient httpclient = new DefaultHttpClient();
+            HttpPost httppost = new HttpPost("http://precious4.research.netlab.hut.fi/users/new");
+
+            MultipartEntity mpEntity = new MultipartEntity(HttpMultipartMode.BROWSER_COMPATIBLE);
+            if (imagePath != null) {
+                File file = new File(imagePath[0]);
+                Log.d("EDIT USER PROFILE", "UPLOAD: file length = " + file.length());
+                Log.d("EDIT USER PROFILE", "UPLOAD: file exist = " + file.exists());
+                mpEntity.addPart("avatar", new FileBody(file, "application/octet"));
             }
-            String serverResponseMessage = stringBuilder.toString();
+            httppost.setEntity(mpEntity);
+            try {
+                HttpResponse response = httpclient.execute(httppost);
+                Log.i(TAG,"Server response: "+response.toString());
+            }catch (Exception e){
+                Log.e(TAG, " ",e);
+            }
+            return 0;
         }
-        catch (Exception e){
-            Log.e("TAG", " ",e);
+
+        protected void onProgressUpdate(Integer... progress) {
+        }
+
+        protected void onPostExecute(Long result) {
         }
     }
 }

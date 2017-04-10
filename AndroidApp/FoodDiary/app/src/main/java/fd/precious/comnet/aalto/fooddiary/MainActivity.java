@@ -7,6 +7,7 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 
 import java.io.File;
@@ -16,6 +17,8 @@ import java.util.Date;
 
 //Follow this tutorial if you need to implement changes: https://developer.android.com/training/camera/photobasics.html
 public class MainActivity extends AppCompatActivity {
+    public static final String TAG = "MainActivity";
+    public Uri photoURI;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             }
             // Continue only if the File was successfully created
             if (photoFile != null) {
-                Uri photoURI = FileProvider.getUriForFile(this,
+                photoURI = FileProvider.getUriForFile(this,
                         "com.example.android.fileprovider",
                         photoFile);
                 takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
@@ -48,6 +51,19 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == REQUEST_TAKE_PHOTO) {
+            if (resultCode == RESULT_OK) {
+                // Image captured and saved to fileUri specified in the Intent
+                Log.i(TAG,"Photo located at "+mCurrentPhotoPath);
+                Uploader.uploadImage(mCurrentPhotoPath);
+            } else if (resultCode == RESULT_CANCELED) {
+                // User cancelled the image capture
+            } else {
+                // Image capture failed, advise user
+            }
+        }
+    }
 
     //Code for storing the photo once it has been taken by the Camera app
     String mCurrentPhotoPath;
@@ -67,7 +83,9 @@ public class MainActivity extends AppCompatActivity {
 
         // Save a file: path for use with ACTION_VIEW intents
         mCurrentPhotoPath = image.getAbsolutePath();
+
         return image;
     }
+
 }
 
