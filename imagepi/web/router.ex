@@ -13,15 +13,16 @@ defmodule Imageapi.Router do
     plug :accepts, ["json"]
   end
 
-  scope "/", Imageapi do
+  scope "/web", Imageapi do
     pipe_through :browser # Use the default browser stack
 
     #get "/", PageController, :index
-    resources "/test", TestController
+#    resources "/test", TestController
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", Imageapi do
-  #   pipe_through :api
-  # end
+   scope "/", Imageapi do
+     pipe_through :api
+     resources "/test", TestController
+   end
 end
