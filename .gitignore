@@ -38,6 +38,9 @@ AndroidApp/FoodDiary/.idea/misc.xml
 AndroidApp/FoodDiary/.idea/modules.xml
 AndroidApp/FoodDiary/.idea/
 AndroidApp/FoodDiary/.gradle/
-.pyc
-.jpg
-.JPEG
+*.pyc
+*.jpg
+*.JPEG
+food_detector/output/
+*.caffemodel
+*.tgz
