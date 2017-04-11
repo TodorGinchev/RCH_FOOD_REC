@@ -1,5 +1,6 @@
 package fd.precious.comnet.aalto.fooddiary;
 
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -18,12 +19,14 @@ import java.util.Date;
 //Follow this tutorial if you need to implement changes: https://developer.android.com/training/camera/photobasics.html
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";
+    public static Context mContext;
     public Uri photoURI;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mContext=this;
     }
 
     // Code for taking a photo
