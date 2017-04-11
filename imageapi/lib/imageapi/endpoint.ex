@@ -39,4 +39,5 @@ defmodule Imageapi.Endpoint do
     signing_salt: "A1UFdSRL"
 
   plug Imageapi.Router
+  plug Plug.Static, at: "/uploads", from: "/media"
 end

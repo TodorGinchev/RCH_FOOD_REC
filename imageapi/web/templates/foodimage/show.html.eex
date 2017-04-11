@@ -1,0 +1,13 @@
+<h2>Show foodimage</h2>
+
+<ul>
+
+  <li>
+    <strong>Foodname:</strong>
+    <%= @foodimage.foodname %>
+  </li>
+
+</ul>
+
+<%= link "Edit", to: foodimage_path(@conn, :edit, @foodimage) %>
+<%= link "Back", to: foodimage_path(@conn, :index) %>
