@@ -2,6 +2,8 @@ package fd.precious.comnet.aalto.fooddiary;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -15,6 +17,7 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 
 //Follow this tutorial if you need to implement changes: https://developer.android.com/training/camera/photobasics.html
 public class MainActivity extends AppCompatActivity {
@@ -27,12 +30,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mContext=this;
+
     }
 
     // Code for taking a photo
     static final int REQUEST_TAKE_PHOTO  = 1;
     public void dispatchTakePictureIntent(View v) {
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+
         // Ensure that there's a camera activity to handle the intent
         if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
             // Create the File where the photo should go
@@ -48,6 +53,13 @@ public class MainActivity extends AppCompatActivity {
                 photoURI = FileProvider.getUriForFile(this,
                         "com.example.android.fileprovider",
                         photoFile);
+                //Solve data access issue with Galaxy Gear smartwatch
+                List<ResolveInfo> resInfoList = mContext.getPackageManager().queryIntentActivities(takePictureIntent, PackageManager.MATCH_DEFAULT_ONLY);
+                for (ResolveInfo resolveInfo : resInfoList) {
+                    String packageName = resolveInfo.activityInfo.packageName;
+                    mContext.grantUriPermission(packageName, photoURI, Intent.FLAG_GRANT_WRITE_URI_PERMISSION | Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                }
+                //End data access issue with Galaxy Gear smartwatch
                 takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT, photoURI);
                 startActivityForResult(takePictureIntent, REQUEST_TAKE_PHOTO);
             }
@@ -59,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
             if (resultCode == RESULT_OK) {
                 // Image captured and saved to fileUri specified in the Intent
                 Log.i(TAG,"Photo located at "+mCurrentPhotoPath);
-                Uploader.uploadImage(mCurrentPhotoPath);
+                Uploader.uploadImage(mCurrentPhotoPath, mContext);
             } else if (resultCode == RESULT_CANCELED) {
                 // User cancelled the image capture
             } else {

@@ -1,6 +1,7 @@
 package fd.precious.comnet.aalto.fooddiary;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.AsyncTask;
 import android.util.Log;
 import android.widget.TextView;
@@ -20,8 +21,10 @@ import java.io.InputStreamReader;
 public class Uploader  {
 
     public static String TAG = "Uploader";
+    public static Context upContext;
 
-    public static void uploadImage(String imagePath) {
+    public static void uploadImage(String imagePath, Context mContext) {
+        upContext = mContext;
         Uploader up = new Uploader();
         PostImage post = up.new PostImage();
         post.execute(imagePath);
@@ -38,6 +41,8 @@ public class Uploader  {
             if (imagePath != null) {
                 File file = new File(imagePath[0]);
                 Log.d("EDIT USER PROFILE", "UPLOAD: file length = " + file.length());
+                if(file.length()==0)
+                    return 0; //Do not upload the photo if there is an error with the file
                 Log.d("EDIT USER PROFILE", "UPLOAD: file exist = " + file.exists());
                 mpEntity.addPart("image", new FileBody(file, "application/octet"));
             }
@@ -85,7 +90,7 @@ public class Uploader  {
         }
 
         protected void onProgressUpdate(String... progress) {
-            TextView txt = (TextView)((Activity)MainActivity.mContext).findViewById(R.id.textView);
+            TextView txt = (TextView)((Activity)upContext).findViewById(R.id.textView);
             txt.setText(progress[0]);
         }
 
