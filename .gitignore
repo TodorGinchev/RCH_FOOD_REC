@@ -15,6 +15,8 @@ local.properties
 
     #Todor's List
 
+.imagepi/images/
+
 .gradle
 /local.properties
 /.idea/workspace.xml

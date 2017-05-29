@@ -19,7 +19,7 @@ def create(conn,test_params) do
     Logger.info "#{imagename}"
     response = HTTPotion.post "http://localhost:8000/food_detection/detect/" , [body: "url=/precious/RCH-SPEC-ASSIGN/imagepi/images/#{imagename}", headers: ["User-Agent": "My App", "Content-Type": "application/x-www-form-urlencoded"]]
     Logger.info "#{HTTPotion.Response.success?(response)}"
-    #Logger.info "#{response.body}"
+    Logger.info "#{response.body}"
     json(conn,response.body)
   else
     json(conn,test_params)
