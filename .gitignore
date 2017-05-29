@@ -17,8 +17,6 @@ local.properties
 
 <<<<<<< HEAD
 .imagepi/images/
-./food_detection_API/food_detector/data/
-./food_detection_API/food_detector/output/
 
 .gradle
 /local.properties
