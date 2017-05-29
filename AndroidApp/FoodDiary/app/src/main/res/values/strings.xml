@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodDiary</string>
+    <string name="InstantPhotoCaptureActivityName">Add meal</string>
+</resources>
