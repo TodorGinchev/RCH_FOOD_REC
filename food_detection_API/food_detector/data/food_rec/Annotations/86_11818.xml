@@ -1,0 +1,24 @@
+<annotation>
+<object>
+<name>potato salad</name>
+<filename>86_11818</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>73</x1>
+<y1>166</y1>
+<x2>299</x2>
+<y2>350</y2>
+</bndbox>
+</object>
+<object>
+<name>potato salad</name>
+<filename>86_11818</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>6</x1>
+<y1>10</y1>
+<x2>194</x2>
+<y2>105</y2>
+</bndbox>
+</object>
+</annotation>

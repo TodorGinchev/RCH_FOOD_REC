@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>takoyaki</name>
+<filename>29_2882</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>14</x1>
+<y1>33</y1>
+<x2>388</x2>
+<y2>254</y2>
+</bndbox>
+</object>
+</annotation>

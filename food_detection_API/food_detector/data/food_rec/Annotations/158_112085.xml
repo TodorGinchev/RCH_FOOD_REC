@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>muffin</name>
+<filename>158_112085</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>25</y1>
+<x2>485</x2>
+<y2>485</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>paella</name>
+<filename>110_4482</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>3</y1>
+<x2>569</x2>
+<y2>423</y2>
+</bndbox>
+</object>
+</annotation>

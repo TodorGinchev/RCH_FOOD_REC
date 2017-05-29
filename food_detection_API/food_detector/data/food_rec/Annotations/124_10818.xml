@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>samul</name>
+<filename>124_10818</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>28</x1>
+<y1>63</y1>
+<x2>522</x2>
+<y2>375</y2>
+</bndbox>
+</object>
+</annotation>

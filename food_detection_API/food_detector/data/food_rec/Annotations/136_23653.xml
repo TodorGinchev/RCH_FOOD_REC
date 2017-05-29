@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>yudofu</name>
+<filename>136_23653</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>40</x1>
+<y1>39</y1>
+<x2>552</x2>
+<y2>398</y2>
+</bndbox>
+</object>
+</annotation>

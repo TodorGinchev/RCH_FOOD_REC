@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>laulau</name>
+<filename>219_219878</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>43</y1>
+<x2>540</x2>
+<y2>402</y2>
+</bndbox>
+</object>
+</annotation>

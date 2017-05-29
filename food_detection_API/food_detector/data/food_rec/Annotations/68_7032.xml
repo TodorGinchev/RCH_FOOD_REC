@@ -1,0 +1,134 @@
+<annotation>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>366</x1>
+<y1>46</y1>
+<x2>440</x2>
+<y2>114</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>364</x1>
+<y1>113</y1>
+<x2>450</x2>
+<y2>170</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>395</x1>
+<y1>243</y1>
+<x2>480</x2>
+<y2>333</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>285</x1>
+<y1>50</y1>
+<x2>359</x2>
+<y2>110</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>275</x1>
+<y1>119</y1>
+<x2>364</x2>
+<y2>190</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>255</x1>
+<y1>220</y1>
+<x2>358</x2>
+<y2>320</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>184</x1>
+<y1>46</y1>
+<x2>265</x2>
+<y2>96</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>181</x1>
+<y1>95</y1>
+<x2>267</x2>
+<y2>168</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>156</x1>
+<y1>197</y1>
+<x2>263</x2>
+<y2>289</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>98</x1>
+<y1>34</y1>
+<x2>178</x2>
+<y2>97</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>71</x1>
+<y1>115</y1>
+<x2>189</x2>
+<y2>191</y2>
+</bndbox>
+</object>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_7032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>43</x1>
+<y1>223</y1>
+<x2>150</x2>
+<y2>321</y2>
+</bndbox>
+</object>
+</annotation>

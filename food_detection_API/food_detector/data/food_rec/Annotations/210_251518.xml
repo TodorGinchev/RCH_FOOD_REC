@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Steamed rice roll</name>
+<filename>210_251518</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>12</x1>
+<y1>63</y1>
+<x2>567</x2>
+<y2>413</y2>
+</bndbox>
+</object>
+</annotation>

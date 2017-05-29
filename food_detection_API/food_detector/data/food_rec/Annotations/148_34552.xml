@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tacos</name>
+<filename>148_34552</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>16</y1>
+<x2>373</x2>
+<y2>365</y2>
+</bndbox>
+</object>
+</annotation>

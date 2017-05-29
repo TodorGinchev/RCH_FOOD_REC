@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>meat loaf</name>
+<filename>150_143416</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>37</x1>
+<y1>38</y1>
+<x2>282</x2>
+<y2>204</y2>
+</bndbox>
+</object>
+</annotation>

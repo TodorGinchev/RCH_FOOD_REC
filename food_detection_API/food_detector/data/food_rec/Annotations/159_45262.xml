@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>popcorn</name>
+<filename>159_45262</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>6</x1>
+<y1>14</y1>
+<x2>422</x2>
+<y2>576</y2>
+</bndbox>
+</object>
+</annotation>

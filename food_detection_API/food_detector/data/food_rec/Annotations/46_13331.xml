@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>grilled salmon</name>
+<filename>46_13331</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>160</x1>
+<y1>167</y1>
+<x2>378</x2>
+<y2>305</y2>
+</bndbox>
+</object>
+</annotation>

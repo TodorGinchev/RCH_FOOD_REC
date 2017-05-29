@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fine white noodles</name>
+<filename>127_186406</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>20</x1>
+<y1>90</y1>
+<x2>384</x2>
+<y2>368</y2>
+</bndbox>
+</object>
+</annotation>

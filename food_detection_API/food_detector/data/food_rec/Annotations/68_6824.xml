@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>egg sunnyside up</name>
+<filename>68_6824</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>16</y1>
+<x2>232</x2>
+<y2>165</y2>
+</bndbox>
+</object>
+</annotation>

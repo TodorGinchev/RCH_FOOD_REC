@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>gratin</name>
+<filename>30_2931</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>11</x1>
+<y1>4</y1>
+<x2>174</x2>
+<y2>140</y2>
+</bndbox>
+</object>
+</annotation>

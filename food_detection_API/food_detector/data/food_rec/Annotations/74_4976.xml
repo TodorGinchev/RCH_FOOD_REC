@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>simmered pork</name>
+<filename>74_4976</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>67</x1>
+<y1>0</y1>
+<x2>259</x2>
+<y2>135</y2>
+</bndbox>
+</object>
+</annotation>

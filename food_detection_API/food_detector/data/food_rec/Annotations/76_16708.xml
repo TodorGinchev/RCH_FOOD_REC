@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sashimi bowl</name>
+<filename>76_16708</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>16</x1>
+<y1>146</y1>
+<x2>309</x2>
+<y2>414</y2>
+</bndbox>
+</object>
+</annotation>

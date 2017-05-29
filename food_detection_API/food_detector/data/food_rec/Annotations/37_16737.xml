@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>potage</name>
+<filename>37_16737</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>14</x1>
+<y1>4</y1>
+<x2>442</x2>
+<y2>321</y2>
+</bndbox>
+</object>
+</annotation>

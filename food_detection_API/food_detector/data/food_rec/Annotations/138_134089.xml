@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>inarizushi</name>
+<filename>138_134089</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>5</x1>
+<y1>3</y1>
+<x2>589</x2>
+<y2>401</y2>
+</bndbox>
+</object>
+</annotation>

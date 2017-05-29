@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>rice</name>
+<filename>1_11184</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>32</x1>
+<y1>178</y1>
+<x2>164</x2>
+<y2>310</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ham cutlet</name>
+<filename>142_195824</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>53</x1>
+<y1>49</y1>
+<x2>583</x2>
+<y2>392</y2>
+</bndbox>
+</object>
+</annotation>

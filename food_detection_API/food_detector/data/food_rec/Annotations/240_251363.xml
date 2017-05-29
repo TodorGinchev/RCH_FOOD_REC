@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>bak kut teh</name>
+<filename>240_251363</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>29</x1>
+<y1>48</y1>
+<x2>464</x2>
+<y2>308</y2>
+</bndbox>
+</object>
+</annotation>

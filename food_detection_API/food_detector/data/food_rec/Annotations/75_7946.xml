@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>boiled chicken and vegetables</name>
+<filename>75_7946</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>46</y1>
+<x2>255</x2>
+<y2>223</y2>
+</bndbox>
+</object>
+</annotation>

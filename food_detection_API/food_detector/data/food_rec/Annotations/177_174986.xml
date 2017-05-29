@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>oyster omelette</name>
+<filename>177_174986</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>35</x1>
+<y1>24</y1>
+<x2>459</x2>
+<y2>319</y2>
+</bndbox>
+</object>
+</annotation>

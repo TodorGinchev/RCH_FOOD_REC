@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>roll bread</name>
+<filename>14_1388</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>10</y1>
+<x2>320</x2>
+<y2>206</y2>
+</bndbox>
+</object>
+</annotation>

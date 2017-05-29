@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sushi</name>
+<filename>7_13719</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>186</x1>
+<y1>152</y1>
+<x2>436</x2>
+<y2>384</y2>
+</bndbox>
+</object>
+</annotation>

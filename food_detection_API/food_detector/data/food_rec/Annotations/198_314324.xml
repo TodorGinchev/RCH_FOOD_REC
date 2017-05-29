@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Barbecued red pork in sauce with rice</name>
+<filename>198_314324</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>20</x1>
+<y1>31</y1>
+<x2>454</x2>
+<y2>481</y2>
+</bndbox>
+</object>
+</annotation>

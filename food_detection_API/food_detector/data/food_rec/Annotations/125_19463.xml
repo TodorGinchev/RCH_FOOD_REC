@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>zoni</name>
+<filename>125_19463</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>24</x1>
+<y1>52</y1>
+<x2>453</x2>
+<y2>465</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>coconut milk soup</name>
+<filename>205_66097</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>49</y1>
+<x2>278</x2>
+<y2>270</y2>
+</bndbox>
+</object>
+</annotation>

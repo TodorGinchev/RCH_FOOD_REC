@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>charcoal boiled pork neck</name>
+<filename>195_179934</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>33</y1>
+<x2>527</x2>
+<y2>412</y2>
+</bndbox>
+</object>
+</annotation>

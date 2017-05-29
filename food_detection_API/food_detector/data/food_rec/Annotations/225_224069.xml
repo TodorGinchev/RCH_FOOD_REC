@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>churro</name>
+<filename>225_224069</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>38</x1>
+<y1>37</y1>
+<x2>568</x2>
+<y2>392</y2>
+</bndbox>
+</object>
+</annotation>

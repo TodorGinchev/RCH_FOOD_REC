@@ -1,0 +1,24 @@
+<annotation>
+<object>
+<name>beef bowl</name>
+<filename>92_12449</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>120</x1>
+<y1>24</y1>
+<x2>347</x2>
+<y2>226</y2>
+</bndbox>
+</object>
+<object>
+<name>beef bowl</name>
+<filename>92_12449</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>124</x1>
+<y1>25</y1>
+<x2>349</x2>
+<y2>229</y2>
+</bndbox>
+</object>
+</annotation>

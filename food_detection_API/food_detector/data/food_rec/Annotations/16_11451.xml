@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chip butty</name>
+<filename>16_11451</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>39</x1>
+<y1>63</y1>
+<x2>270</x2>
+<y2>288</y2>
+</bndbox>
+</object>
+</annotation>

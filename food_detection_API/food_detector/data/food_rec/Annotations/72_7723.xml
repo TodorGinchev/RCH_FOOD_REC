@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chilled noodle</name>
+<filename>72_7723</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>11</x1>
+<y1>7</y1>
+<x2>167</x2>
+<y2>133</y2>
+</bndbox>
+</object>
+</annotation>

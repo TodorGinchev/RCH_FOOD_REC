@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chicken and egg on rice</name>
+<filename>4_15610</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>270</x1>
+<y1>43</y1>
+<x2>593</x2>
+<y2>323</y2>
+</bndbox>
+</object>
+</annotation>

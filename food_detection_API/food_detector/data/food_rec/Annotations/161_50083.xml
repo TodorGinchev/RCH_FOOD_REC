@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>doughnut</name>
+<filename>161_50083</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>5</x1>
+<y1>3</y1>
+<x2>548</x2>
+<y2>427</y2>
+</bndbox>
+</object>
+</annotation>

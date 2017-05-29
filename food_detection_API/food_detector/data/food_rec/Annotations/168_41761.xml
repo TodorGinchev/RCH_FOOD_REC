@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>hot pot</name>
+<filename>168_41761</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>21</x1>
+<y1>28</y1>
+<x2>562</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

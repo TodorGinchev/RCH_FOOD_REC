@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>seasoned beef with potatoes</name>
+<filename>59_5980</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>60</x1>
+<y1>32</y1>
+<x2>347</x2>
+<y2>310</y2>
+</bndbox>
+</object>
+</annotation>

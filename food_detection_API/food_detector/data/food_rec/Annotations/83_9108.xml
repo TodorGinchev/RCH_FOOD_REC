@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>cutlet curry</name>
+<filename>83_9108</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>19</x1>
+<y1>100</y1>
+<x2>312</x2>
+<y2>384</y2>
+</bndbox>
+</object>
+</annotation>

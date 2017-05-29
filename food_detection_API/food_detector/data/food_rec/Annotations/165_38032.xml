@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>lamb kebabs</name>
+<filename>165_38032</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>47</x1>
+<y1>46</y1>
+<x2>321</x2>
+<y2>291</y2>
+</bndbox>
+</object>
+</annotation>

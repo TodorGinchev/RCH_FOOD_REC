@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>moon cake</name>
+<filename>171_111479</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>133</x1>
+<y1>71</y1>
+<x2>446</x2>
+<y2>301</y2>
+</bndbox>
+</object>
+</annotation>

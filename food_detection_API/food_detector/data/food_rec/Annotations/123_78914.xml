@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>mushroom risotto</name>
+<filename>123_78914</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>41</x1>
+<y1>0</y1>
+<x2>311</x2>
+<y2>339</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>jjigae</name>
+<filename>105_183215</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>14</x1>
+<y1>29</y1>
+<x2>459</x2>
+<y2>313</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>hot dog</name>
+<filename>97_14960</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>8</x1>
+<y1>86</y1>
+<x2>783</x2>
+<y2>493</y2>
+</bndbox>
+</object>
+</annotation>

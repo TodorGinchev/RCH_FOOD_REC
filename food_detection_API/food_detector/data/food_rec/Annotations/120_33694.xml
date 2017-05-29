@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>shortcake</name>
+<filename>120_33694</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>20</x1>
+<y1>17</y1>
+<x2>482</x2>
+<y2>373</y2>
+</bndbox>
+</object>
+</annotation>

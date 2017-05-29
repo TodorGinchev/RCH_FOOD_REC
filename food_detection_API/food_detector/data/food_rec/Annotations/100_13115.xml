@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>goya chanpuru</name>
+<filename>100_13115</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>5</x1>
+<y1>88</y1>
+<x2>788</x2>
+<y2>598</y2>
+</bndbox>
+</object>
+</annotation>

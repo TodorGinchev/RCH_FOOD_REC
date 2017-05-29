@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Hue beef rice vermicelli soup</name>
+<filename>207_167765</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>50</x1>
+<y1>66</y1>
+<x2>506</x2>
+<y2>431</y2>
+</bndbox>
+</object>
+</annotation>

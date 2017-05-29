@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>bagel</name>
+<filename>145_106962</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>15</x1>
+<y1>17</y1>
+<x2>521</x2>
+<y2>442</y2>
+</bndbox>
+</object>
+</annotation>

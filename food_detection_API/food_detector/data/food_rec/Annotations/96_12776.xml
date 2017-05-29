@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>dipping noodles</name>
+<filename>96_12776</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>37</y1>
+<x2>345</x2>
+<y2>260</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>hot and sour fish and vegetable ragout</name>
+<filename>186_310734</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>43</x1>
+<y1>50</y1>
+<x2>454</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

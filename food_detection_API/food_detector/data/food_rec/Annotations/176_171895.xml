@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fish ball soup</name>
+<filename>176_171895</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>57</x1>
+<y1>61</y1>
+<x2>513</x2>
+<y2>389</y2>
+</bndbox>
+</object>
+</annotation>

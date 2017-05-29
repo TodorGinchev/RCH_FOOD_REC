@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>steamed egg hotchpotch</name>
+<filename>53_5362</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>284</x1>
+<y1>0</y1>
+<x2>565</x2>
+<y2>232</y2>
+</bndbox>
+</object>
+</annotation>

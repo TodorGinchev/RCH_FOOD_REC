@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>shrimp with chill source</name>
+<filename>79_8402</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>0</y1>
+<x2>133</x2>
+<y2>100</y2>
+</bndbox>
+</object>
+</annotation>

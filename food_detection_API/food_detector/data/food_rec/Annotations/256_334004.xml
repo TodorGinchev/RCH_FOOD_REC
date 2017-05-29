@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>hot and sour soup</name>
+<filename>256_334004</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>71</x1>
+<y1>30</y1>
+<x2>519</x2>
+<y2>342</y2>
+</bndbox>
+</object>
+</annotation>

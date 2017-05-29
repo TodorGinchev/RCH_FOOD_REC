@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>noodles with fish curry</name>
+<filename>191_131091</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>13</x1>
+<y1>35</y1>
+<x2>606</x2>
+<y2>405</y2>
+</bndbox>
+</object>
+</annotation>

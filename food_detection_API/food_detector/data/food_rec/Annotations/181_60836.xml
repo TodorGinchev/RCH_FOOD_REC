@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>lemon fig jelly</name>
+<filename>181_60836</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>19</x1>
+<y1>125</y1>
+<x2>590</x2>
+<y2>379</y2>
+</bndbox>
+</object>
+</annotation>

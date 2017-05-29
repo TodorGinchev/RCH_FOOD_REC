@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>twice cooked pork</name>
+<filename>122_185325</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>61</x1>
+<y1>70</y1>
+<x2>584</x2>
+<y2>342</y2>
+</bndbox>
+</object>
+</annotation>

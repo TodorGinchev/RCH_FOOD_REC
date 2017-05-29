@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Glutinous Rice Balls</name>
+<filename>215_263270</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>148</x1>
+<y1>148</y1>
+<x2>535</x2>
+<y2>411</y2>
+</bndbox>
+</object>
+</annotation>

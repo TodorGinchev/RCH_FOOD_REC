@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Chicken Rice Curry With Coconut</name>
+<filename>202_267041</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>1</x1>
+<y1>4</y1>
+<x2>495</x2>
+<y2>495</y2>
+</bndbox>
+</object>
+</annotation>

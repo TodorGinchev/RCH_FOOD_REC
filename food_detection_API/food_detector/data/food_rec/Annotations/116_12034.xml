@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>crape</name>
+<filename>116_12034</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>36</y1>
+<x2>562</x2>
+<y2>355</y2>
+</bndbox>
+</object>
+</annotation>

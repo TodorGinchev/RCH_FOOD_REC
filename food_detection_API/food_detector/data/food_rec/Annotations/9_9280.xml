@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried rice</name>
+<filename>9_9280</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>136</y1>
+<x2>253</x2>
+<y2>357</y2>
+</bndbox>
+</object>
+</annotation>

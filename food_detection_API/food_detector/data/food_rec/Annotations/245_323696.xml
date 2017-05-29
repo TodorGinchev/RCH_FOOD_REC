@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>crullers</name>
+<filename>245_323696</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>18</x1>
+<y1>86</y1>
+<x2>417</x2>
+<y2>567</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>french fries</name>
+<filename>98_15743</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>333</x1>
+<y1>20</y1>
+<x2>590</x2>
+<y2>310</y2>
+</bndbox>
+</object>
+</annotation>

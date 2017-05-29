@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chow mein</name>
+<filename>242_326073</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>37</x1>
+<y1>130</y1>
+<x2>387</x2>
+<y2>489</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Japanese tofu and vegetable chowder</name>
+<filename>89_12068</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>22</y1>
+<x2>309</x2>
+<y2>214</y2>
+</bndbox>
+</object>
+</annotation>

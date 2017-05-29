@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Vermicelli noodles with snails</name>
+<filename>208_202713</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>1</x1>
+<y1>1</y1>
+<x2>596</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

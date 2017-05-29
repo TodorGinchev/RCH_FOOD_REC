@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>xiao long bao</name>
+<filename>170_56118</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>55</x1>
+<y1>28</y1>
+<x2>384</x2>
+<y2>320</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>curry puff</name>
+<filename>241_258979</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>41</y1>
+<x2>326</x2>
+<y2>489</y2>
+</bndbox>
+</object>
+</annotation>

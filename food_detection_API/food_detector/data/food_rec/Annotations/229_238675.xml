@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ayam bakar</name>
+<filename>229_238675</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>19</x1>
+<y1>84</y1>
+<x2>507</x2>
+<y2>403</y2>
+</bndbox>
+</object>
+</annotation>

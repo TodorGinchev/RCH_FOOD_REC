@@ -1,0 +1,35 @@
+<annotation>
+<object>
+<name>steamed meat dumpling</name>
+<filename>81_10742</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>105</x1>
+<y1>96</y1>
+<x2>264</x2>
+<y2>198</y2>
+</bndbox>
+</object>
+<object>
+<name>steamed meat dumpling</name>
+<filename>81_10742</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>61</x1>
+<y1>166</y1>
+<x2>174</x2>
+<y2>297</y2>
+</bndbox>
+</object>
+<object>
+<name>steamed meat dumpling</name>
+<filename>81_10742</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>169</x1>
+<y1>187</y1>
+<x2>289</x2>
+<y2>318</y2>
+</bndbox>
+</object>
+</annotation>

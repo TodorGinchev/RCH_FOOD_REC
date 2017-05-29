@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Small steamed savory rice pancake</name>
+<filename>214_226099</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>1</x1>
+<y1>135</y1>
+<x2>404</x2>
+<y2>581</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>eight treasure rice</name>
+<filename>255_337359</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>48</x1>
+<y1>223</y1>
+<x2>366</x2>
+<y2>528</y2>
+</bndbox>
+</object>
+</annotation>

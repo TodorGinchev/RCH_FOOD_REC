@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>jambalaya</name>
+<filename>226_315785</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>41</y1>
+<x2>442</x2>
+<y2>456</y2>
+</bndbox>
+</object>
+</annotation>

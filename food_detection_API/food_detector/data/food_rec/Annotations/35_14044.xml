@@ -1,0 +1,24 @@
+<annotation>
+<object>
+<name>vegetable tempura</name>
+<filename>35_14044</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>185</x1>
+<y1>316</y1>
+<x2>448</x2>
+<y2>591</y2>
+</bndbox>
+</object>
+<object>
+<name>vegetable tempura</name>
+<filename>35_14044</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>65</x1>
+<y1>93</y1>
+<x2>248</x2>
+<y2>246</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>egg roll</name>
+<filename>71_15428</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>406</x1>
+<y1>229</y1>
+<x2>544</x2>
+<y2>346</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>custard tart</name>
+<filename>172_171311</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>26</x1>
+<y1>10</y1>
+<x2>476</x2>
+<y2>365</y2>
+</bndbox>
+</object>
+</annotation>

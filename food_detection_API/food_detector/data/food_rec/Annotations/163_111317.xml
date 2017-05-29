@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>parfait</name>
+<filename>163_111317</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>71</x1>
+<y1>33</y1>
+<x2>416</x2>
+<y2>545</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>yakitori</name>
+<filename>65_6574</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>29</y1>
+<x2>200</x2>
+<y2>150</y2>
+</bndbox>
+</object>
+</annotation>

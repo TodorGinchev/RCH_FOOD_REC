@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>waffle</name>
+<filename>118_75042</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>34</x1>
+<y1>37</y1>
+<x2>531</x2>
+<y2>427</y2>
+</bndbox>
+</object>
+</annotation>

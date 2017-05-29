@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chicken rice</name>
+<filename>8_765</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>103</x1>
+<y1>77</y1>
+<x2>577</x2>
+<y2>439</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>champon</name>
+<filename>115_9515</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>23</y1>
+<x2>386</x2>
+<y2>599</y2>
+</bndbox>
+</object>
+</annotation>

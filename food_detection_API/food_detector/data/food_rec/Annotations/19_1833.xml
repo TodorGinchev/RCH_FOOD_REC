@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sandwiches</name>
+<filename>19_1833</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>72</x1>
+<y1>76</y1>
+<x2>242</x2>
+<y2>283</y2>
+</bndbox>
+</object>
+</annotation>

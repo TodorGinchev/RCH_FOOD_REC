@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Fried spring rolls</name>
+<filename>209_250308</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>22</x1>
+<y1>22</y1>
+<x2>579</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

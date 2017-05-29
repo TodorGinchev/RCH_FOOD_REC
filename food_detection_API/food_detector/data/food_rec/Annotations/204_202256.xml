@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Egg Noodle In Chicken Yellow Curry</name>
+<filename>204_202256</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>20</x1>
+<y1>58</y1>
+<x2>484</x2>
+<y2>466</y2>
+</bndbox>
+</object>
+</annotation>

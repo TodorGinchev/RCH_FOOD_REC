@@ -1,0 +1,24 @@
+<annotation>
+<object>
+<name>grilled pacific saury</name>
+<filename>49_4948</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>59</x1>
+<y1>0</y1>
+<x2>350</x2>
+<y2>142</y2>
+</bndbox>
+</object>
+<object>
+<name>grilled pacific saury</name>
+<filename>49_4948</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>105</y1>
+<x2>307</x2>
+<y2>263</y2>
+</bndbox>
+</object>
+</annotation>

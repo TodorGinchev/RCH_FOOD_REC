@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>minestrone</name>
+<filename>128_72836</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>26</x1>
+<y1>102</y1>
+<x2>392</x2>
+<y2>532</y2>
+</bndbox>
+</object>
+</annotation>

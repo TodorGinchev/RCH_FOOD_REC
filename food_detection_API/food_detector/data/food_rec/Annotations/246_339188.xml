@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>eggplant with garlic sauce</name>
+<filename>246_339188</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>32</x1>
+<y1>33</y1>
+<x2>490</x2>
+<y2>352</y2>
+</bndbox>
+</object>
+</annotation>

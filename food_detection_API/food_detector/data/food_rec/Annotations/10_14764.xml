@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tempura bowl</name>
+<filename>10_14764</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>330</x1>
+<y1>60</y1>
+<x2>708</x2>
+<y2>412</y2>
+</bndbox>
+</object>
+</annotation>

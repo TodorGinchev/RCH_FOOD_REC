@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>boned sliced Hainan-style chicken with marinated rice</name>
+<filename>185_56647</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>91</y1>
+<x2>476</x2>
+<y2>493</y2>
+</bndbox>
+</object>
+</annotation>

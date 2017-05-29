@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>dak galbi</name>
+<filename>106_182613</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>42</x1>
+<y1>29</y1>
+<x2>439</x2>
+<y2>320</y2>
+</bndbox>
+</object>
+</annotation>

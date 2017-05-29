@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>haupia</name>
+<filename>217_218403</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>28</y1>
+<x2>504</x2>
+<y2>380</y2>
+</bndbox>
+</object>
+</annotation>

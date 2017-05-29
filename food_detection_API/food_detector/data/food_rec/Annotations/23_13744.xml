@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ramen noodle</name>
+<filename>23_13744</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>88</x1>
+<y1>11</y1>
+<x2>518</x2>
+<y2>317</y2>
+</bndbox>
+</object>
+</annotation>

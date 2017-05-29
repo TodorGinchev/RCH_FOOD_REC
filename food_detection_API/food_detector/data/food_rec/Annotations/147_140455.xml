@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tortilla</name>
+<filename>147_140455</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>31</x1>
+<y1>77</y1>
+<x2>460</x2>
+<y2>372</y2>
+</bndbox>
+</object>
+</annotation>

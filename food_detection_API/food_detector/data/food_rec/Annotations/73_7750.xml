@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>stirfried beef and peppers</name>
+<filename>73_7750</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>120</x1>
+<y1>23</y1>
+<x2>688</x2>
+<y2>585</y2>
+</bndbox>
+</object>
+</annotation>

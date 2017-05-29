@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>natto</name>
+<filename>69_7385</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>146</x1>
+<y1>235</y1>
+<x2>330</x2>
+<y2>468</y2>
+</bndbox>
+</object>
+</annotation>

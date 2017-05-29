@@ -1,0 +1,35 @@
+<annotation>
+<object>
+<name>hot dog</name>
+<filename>97_13537</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>35</y1>
+<x2>297</x2>
+<y2>171</y2>
+</bndbox>
+</object>
+<object>
+<name>hot dog</name>
+<filename>97_13537</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>124</x1>
+<y1>140</y1>
+<x2>352</x2>
+<y2>258</y2>
+</bndbox>
+</object>
+<object>
+<name>hot dog</name>
+<filename>97_13537</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>1</x1>
+<y1>9</y1>
+<x2>161</x2>
+<y2>85</y2>
+</bndbox>
+</object>
+</annotation>

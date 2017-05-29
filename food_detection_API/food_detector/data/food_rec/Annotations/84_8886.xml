@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>spaghetti meat sauce</name>
+<filename>84_8886</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>11</x1>
+<y1>2</y1>
+<x2>179</x2>
+<y2>138</y2>
+</bndbox>
+</object>
+</annotation>

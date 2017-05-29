@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>kushikatu</name>
+<filename>112_93630</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>24</x1>
+<y1>20</y1>
+<x2>582</x2>
+<y2>370</y2>
+</bndbox>
+</object>
+</annotation>

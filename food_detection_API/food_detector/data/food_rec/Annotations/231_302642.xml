@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>gulai</name>
+<filename>231_302642</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>31</x1>
+<y1>50</y1>
+<x2>481</x2>
+<y2>441</y2>
+</bndbox>
+</object>
+</annotation>

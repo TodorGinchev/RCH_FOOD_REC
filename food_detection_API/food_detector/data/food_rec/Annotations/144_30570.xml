@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>thinly sliced raw horsemeat</name>
+<filename>144_30570</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>29</x1>
+<y1>73</y1>
+<x2>487</x2>
+<y2>298</y2>
+</bndbox>
+</object>
+</annotation>

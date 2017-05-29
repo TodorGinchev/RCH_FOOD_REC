@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>dish consisting of stirfried potato eggplant and green pepper</name>
+<filename>166_45514</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>20</x1>
+<y1>18</y1>
+<x2>649</x2>
+<y2>362</y2>
+</bndbox>
+</object>
+</annotation>

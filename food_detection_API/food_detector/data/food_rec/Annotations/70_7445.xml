@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>cold tofu</name>
+<filename>70_7445</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>78</x1>
+<y1>52</y1>
+<x2>244</x2>
+<y2>222</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pork belly</name>
+<filename>169_54022</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>59</x1>
+<y1>70</y1>
+<x2>564</x2>
+<y2>407</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried chicken</name>
+<filename>55_9111</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>52</x1>
+<y1>16</y1>
+<x2>222</x2>
+<y2>300</y2>
+</bndbox>
+</object>
+</annotation>

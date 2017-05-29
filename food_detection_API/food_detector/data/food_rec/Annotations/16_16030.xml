@@ -1,0 +1,35 @@
+<annotation>
+<object>
+<name>chip butty</name>
+<filename>16_16030</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>110</x1>
+<y1>25</y1>
+<x2>312</x2>
+<y2>206</y2>
+</bndbox>
+</object>
+<object>
+<name>chip butty</name>
+<filename>16_16030</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>313</x1>
+<y1>12</y1>
+<x2>544</x2>
+<y2>225</y2>
+</bndbox>
+</object>
+<object>
+<name>chip butty</name>
+<filename>16_16030</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>89</x1>
+<y1>318</y1>
+<x2>597</x2>
+<y2>436</y2>
+</bndbox>
+</object>
+</annotation>

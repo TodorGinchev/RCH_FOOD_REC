@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>babi guling</name>
+<filename>238_256763</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>90</y1>
+<x2>310</x2>
+<y2>340</y2>
+</bndbox>
+</object>
+</annotation>

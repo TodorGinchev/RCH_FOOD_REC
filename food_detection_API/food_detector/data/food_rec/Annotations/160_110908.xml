@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>cream puff</name>
+<filename>160_110908</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>6</x1>
+<y1>10</y1>
+<x2>417</x2>
+<y2>363</y2>
+</bndbox>
+</object>
+</annotation>

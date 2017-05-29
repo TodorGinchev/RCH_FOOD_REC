@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>oatmeal</name>
+<filename>155_109021</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>19</x1>
+<y1>25</y1>
+<x2>602</x2>
+<y2>317</y2>
+</bndbox>
+</object>
+</annotation>

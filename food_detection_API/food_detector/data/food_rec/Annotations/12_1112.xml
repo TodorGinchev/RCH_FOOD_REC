@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>toast</name>
+<filename>12_1112</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>168</x1>
+<y1>82</y1>
+<x2>548</x2>
+<y2>370</y2>
+</bndbox>
+</object>
+</annotation>

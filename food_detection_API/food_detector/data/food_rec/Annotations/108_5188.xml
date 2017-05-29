@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>kamameshi</name>
+<filename>108_5188</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>42</y1>
+<x2>603</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

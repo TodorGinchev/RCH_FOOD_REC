@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>bibimbap</name>
+<filename>11_1099</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>15</y1>
+<x2>147</x2>
+<y2>121</y2>
+</bndbox>
+</object>
+</annotation>

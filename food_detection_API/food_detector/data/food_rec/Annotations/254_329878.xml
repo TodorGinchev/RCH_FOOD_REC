@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chinese pumpkin pie</name>
+<filename>254_329878</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>82</x1>
+<y1>99</y1>
+<x2>409</x2>
+<y2>326</y2>
+</bndbox>
+</object>
+</annotation>

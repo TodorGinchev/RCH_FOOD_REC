@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Coconut milkflavored crepes with shrimp and beef</name>
+<filename>213_210022</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>7</y1>
+<x2>567</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>spam musubi</name>
+<filename>220_226362</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>3</y1>
+<x2>566</x2>
+<y2>413</y2>
+</bndbox>
+</object>
+</annotation>

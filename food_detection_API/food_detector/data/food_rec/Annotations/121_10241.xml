@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chop suey</name>
+<filename>121_10241</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>43</x1>
+<y1>14</y1>
+<x2>496</x2>
+<y2>456</y2>
+</bndbox>
+</object>
+</annotation>

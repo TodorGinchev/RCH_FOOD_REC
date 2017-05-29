@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>nasi uduk</name>
+<filename>237_242703</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>50</x1>
+<y1>66</y1>
+<x2>548</x2>
+<y2>400</y2>
+</bndbox>
+</object>
+</annotation>

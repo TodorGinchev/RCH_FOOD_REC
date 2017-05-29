@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried pork in scoop</name>
+<filename>164_134496</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>22</x1>
+<y1>40</y1>
+<x2>597</x2>
+<y2>383</y2>
+</bndbox>
+</object>
+</annotation>

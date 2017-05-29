@@ -1,0 +1,35 @@
+<annotation>
+<object>
+<name>rice ball</name>
+<filename>94_12557</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>12</x1>
+<y1>23</y1>
+<x2>186</x2>
+<y2>272</y2>
+</bndbox>
+</object>
+<object>
+<name>rice ball</name>
+<filename>94_12557</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>156</x1>
+<y1>50</y1>
+<x2>290</x2>
+<y2>295</y2>
+</bndbox>
+</object>
+<object>
+<name>rice ball</name>
+<filename>94_12557</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>250</x1>
+<y1>64</y1>
+<x2>448</x2>
+<y2>316</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>zha jiang mian</name>
+<filename>243_324119</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>135</y1>
+<x2>400</x2>
+<y2>548</y2>
+</bndbox>
+</object>
+</annotation>

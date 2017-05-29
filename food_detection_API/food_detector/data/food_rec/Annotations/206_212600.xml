@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pho</name>
+<filename>206_212600</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>79</x1>
+<y1>73</y1>
+<x2>490</x2>
+<y2>395</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>stewed pork leg</name>
+<filename>194_182228</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>6</x1>
+<y1>50</y1>
+<x2>416</x2>
+<y2>567</y2>
+</bndbox>
+</object>
+</annotation>

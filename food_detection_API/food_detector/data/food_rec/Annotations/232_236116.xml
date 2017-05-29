@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>laksa</name>
+<filename>232_236116</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>18</x1>
+<y1>33</y1>
+<x2>440</x2>
+<y2>505</y2>
+</bndbox>
+</object>
+</annotation>

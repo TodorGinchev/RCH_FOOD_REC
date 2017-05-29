@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>spicy chiliflavored tofu</name>
+<filename>64_11516</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>6</y1>
+<x2>480</x2>
+<y2>348</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sauteed spinach</name>
+<filename>34_3367</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>157</x1>
+<y1>98</y1>
+<x2>706</x2>
+<y2>513</y2>
+</bndbox>
+</object>
+</annotation>

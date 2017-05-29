@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chicken cutlet</name>
+<filename>141_34936</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>25</y1>
+<x2>496</x2>
+<y2>475</y2>
+</bndbox>
+</object>
+</annotation>

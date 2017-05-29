@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>kaya toast</name>
+<filename>239_251811</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>13</x1>
+<y1>27</y1>
+<x2>568</x2>
+<y2>383</y2>
+</bndbox>
+</object>
+</annotation>

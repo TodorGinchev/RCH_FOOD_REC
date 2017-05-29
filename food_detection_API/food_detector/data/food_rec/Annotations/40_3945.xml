@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>omelet</name>
+<filename>40_3945</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>8</x1>
+<y1>70</y1>
+<x2>252</x2>
+<y2>208</y2>
+</bndbox>
+</object>
+</annotation>

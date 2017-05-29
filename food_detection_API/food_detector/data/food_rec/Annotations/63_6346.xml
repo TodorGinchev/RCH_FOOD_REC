@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ginger pork saute</name>
+<filename>63_6346</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>53</y1>
+<x2>350</x2>
+<y2>250</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>mozuku</name>
+<filename>137_192149</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>51</x1>
+<y1>104</y1>
+<x2>456</x2>
+<y2>425</y2>
+</bndbox>
+</object>
+</annotation>

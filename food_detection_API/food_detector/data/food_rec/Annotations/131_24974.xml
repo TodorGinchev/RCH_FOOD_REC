@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>namero</name>
+<filename>131_24974</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>15</x1>
+<y1>75</y1>
+<x2>490</x2>
+<y2>472</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Pork Sticky Noodles</name>
+<filename>192_313035</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>3</x1>
+<y1>37</y1>
+<x2>496</x2>
+<y2>427</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>steamed meat dumpling</name>
+<filename>81_8611</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>69</x1>
+<y1>67</y1>
+<x2>228</x2>
+<y2>139</y2>
+</bndbox>
+</object>
+</annotation>

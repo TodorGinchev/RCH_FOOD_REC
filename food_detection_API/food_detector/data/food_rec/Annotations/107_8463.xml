@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>dry curry</name>
+<filename>107_8463</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>26</x1>
+<y1>31</y1>
+<x2>473</x2>
+<y2>406</y2>
+</bndbox>
+</object>
+</annotation>

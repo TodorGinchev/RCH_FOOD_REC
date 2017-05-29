@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Japanesestyle pancake</name>
+<filename>28_2711</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>20</y1>
+<x2>304</x2>
+<y2>216</y2>
+</bndbox>
+</object>
+</annotation>

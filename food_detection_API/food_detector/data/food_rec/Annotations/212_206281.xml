@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ball shaped bun with pork</name>
+<filename>212_206281</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>44</x1>
+<y1>70</y1>
+<x2>404</x2>
+<y2>322</y2>
+</bndbox>
+</object>
+</annotation>

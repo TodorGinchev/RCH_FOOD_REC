@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>salmon meuniere</name>
+<filename>47_14522</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>206</x1>
+<y1>348</y1>
+<x2>655</x2>
+<y2>600</y2>
+</bndbox>
+</object>
+</annotation>

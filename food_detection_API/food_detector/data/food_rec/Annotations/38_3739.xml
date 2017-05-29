@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sausage</name>
+<filename>38_3739</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>66</x1>
+<y1>246</y1>
+<x2>193</x2>
+<y2>400</y2>
+</bndbox>
+</object>
+</annotation>

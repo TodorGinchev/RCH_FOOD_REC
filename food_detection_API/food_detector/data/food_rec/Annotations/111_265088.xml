@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tanmen</name>
+<filename>111_265088</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>12</x1>
+<y1>24</y1>
+<x2>392</x2>
+<y2>377</y2>
+</bndbox>
+</object>
+</annotation>

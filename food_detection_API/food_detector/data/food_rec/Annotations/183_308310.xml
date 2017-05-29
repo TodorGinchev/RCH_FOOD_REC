@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Sour prawn soup</name>
+<filename>183_308310</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>21</x1>
+<y1>58</y1>
+<x2>487</x2>
+<y2>387</y2>
+</bndbox>
+</object>
+</annotation>

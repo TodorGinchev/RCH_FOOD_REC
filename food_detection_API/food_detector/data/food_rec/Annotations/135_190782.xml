@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>clear soup</name>
+<filename>135_190782</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>15</x1>
+<y1>154</y1>
+<x2>320</x2>
+<y2>425</y2>
+</bndbox>
+</object>
+</annotation>

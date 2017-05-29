@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>loco moco</name>
+<filename>216_216501</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>91</x1>
+<y1>38</y1>
+<x2>573</x2>
+<y2>379</y2>
+</bndbox>
+</object>
+</annotation>

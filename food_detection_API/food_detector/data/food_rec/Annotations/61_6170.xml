@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>steak</name>
+<filename>61_6170</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>10</y1>
+<x2>355</x2>
+<y2>293</y2>
+</bndbox>
+</object>
+</annotation>

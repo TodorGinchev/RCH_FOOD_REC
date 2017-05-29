@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried shrimp</name>
+<filename>85_9035</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>74</x1>
+<y1>19</y1>
+<x2>366</x2>
+<y2>289</y2>
+</bndbox>
+</object>
+</annotation>

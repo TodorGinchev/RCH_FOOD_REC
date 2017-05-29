@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>mango pudding</name>
+<filename>103_69253</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>34</x1>
+<y1>70</y1>
+<x2>470</x2>
+<y2>397</y2>
+</bndbox>
+</object>
+</annotation>

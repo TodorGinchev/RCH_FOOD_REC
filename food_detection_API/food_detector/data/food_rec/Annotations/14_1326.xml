@@ -1,0 +1,68 @@
+<annotation>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>24</x1>
+<y1>78</y1>
+<x2>70</x2>
+<y2>150</y2>
+</bndbox>
+</object>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>79</x1>
+<y1>68</y1>
+<x2>137</x2>
+<y2>146</y2>
+</bndbox>
+</object>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>140</x1>
+<y1>72</y1>
+<x2>216</x2>
+<y2>147</y2>
+</bndbox>
+</object>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>37</x1>
+<y1>12</y1>
+<x2>86</x2>
+<y2>66</y2>
+</bndbox>
+</object>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>91</x1>
+<y1>0</y1>
+<x2>148</x2>
+<y2>57</y2>
+</bndbox>
+</object>
+<object>
+<name>roll bread</name>
+<filename>14_1326</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>153</x1>
+<y1>12</y1>
+<x2>212</x2>
+<y2>74</y2>
+</bndbox>
+</object>
+</annotation>

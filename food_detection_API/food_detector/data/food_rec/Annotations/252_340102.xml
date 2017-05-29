@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>winter melon soup</name>
+<filename>252_340102</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>110</x1>
+<y1>10</y1>
+<x2>590</x2>
+<y2>339</y2>
+</bndbox>
+</object>
+</annotation>

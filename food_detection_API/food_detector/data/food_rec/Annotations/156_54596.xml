@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried pork dumplings served in soup</name>
+<filename>156_54596</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>14</x1>
+<y1>19</y1>
+<x2>418</x2>
+<y2>533</y2>
+</bndbox>
+</object>
+</annotation>

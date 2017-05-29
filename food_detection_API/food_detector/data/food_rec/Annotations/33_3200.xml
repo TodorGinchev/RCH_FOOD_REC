@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>grilled eggplant</name>
+<filename>33_3200</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>36</x1>
+<y1>24</y1>
+<x2>282</x2>
+<y2>234</y2>
+</bndbox>
+</object>
+</annotation>

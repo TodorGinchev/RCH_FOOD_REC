@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pot au feu</name>
+<filename>129_187238</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>11</x1>
+<y1>5</y1>
+<x2>333</x2>
+<y2>245</y2>
+</bndbox>
+</object>
+</annotation>

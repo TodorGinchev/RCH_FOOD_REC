@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>ganmodoki</name>
+<filename>41_4068</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>276</y1>
+<x2>274</x2>
+<y2>454</y2>
+</bndbox>
+</object>
+</annotation>

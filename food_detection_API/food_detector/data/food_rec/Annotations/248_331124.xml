@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>bean curd family style</name>
+<filename>248_331124</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>47</x1>
+<y1>85</y1>
+<x2>515</x2>
+<y2>404</y2>
+</bndbox>
+</object>
+</annotation>

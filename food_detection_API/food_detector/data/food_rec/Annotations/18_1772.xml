@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pizza</name>
+<filename>18_1772</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>12</x1>
+<y1>9</y1>
+<x2>149</x2>
+<y2>99</y2>
+</bndbox>
+</object>
+</annotation>

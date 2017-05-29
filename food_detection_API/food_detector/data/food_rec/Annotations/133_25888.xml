@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>rice gruel</name>
+<filename>133_25888</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>29</y1>
+<x2>490</x2>
+<y2>493</y2>
+</bndbox>
+</object>
+</annotation>

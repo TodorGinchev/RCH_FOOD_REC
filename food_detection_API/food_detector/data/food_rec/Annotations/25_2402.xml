@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tensin noodle</name>
+<filename>25_2402</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>21</y1>
+<x2>210</x2>
+<y2>238</y2>
+</bndbox>
+</object>
+</annotation>

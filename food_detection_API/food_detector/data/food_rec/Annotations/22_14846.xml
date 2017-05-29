@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>soba noodle</name>
+<filename>22_14846</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>172</x1>
+<y1>152</y1>
+<x2>340</x2>
+<y2>290</y2>
+</bndbox>
+</object>
+</annotation>

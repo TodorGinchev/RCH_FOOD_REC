@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>beef curry</name>
+<filename>6_7135</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>50</y1>
+<x2>471</x2>
+<y2>347</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tempura udon</name>
+<filename>21_2008</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>92</x1>
+<y1>36</y1>
+<x2>569</x2>
+<y2>448</y2>
+</bndbox>
+</object>
+</annotation>

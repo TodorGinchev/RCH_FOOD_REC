@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sauteed vegetables</name>
+<filename>31_3091</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>0</y1>
+<x2>240</x2>
+<y2>338</y2>
+</bndbox>
+</object>
+</annotation>

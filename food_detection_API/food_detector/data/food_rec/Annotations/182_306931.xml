@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>khao soi</name>
+<filename>182_306931</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>33</y1>
+<x2>485</x2>
+<y2>495</y2>
+</bndbox>
+</object>
+</annotation>

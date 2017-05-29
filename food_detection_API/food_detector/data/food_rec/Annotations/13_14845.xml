@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>croissant</name>
+<filename>13_14845</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>39</x1>
+<y1>73</y1>
+<x2>302</x2>
+<y2>724</y2>
+</bndbox>
+</object>
+</annotation>

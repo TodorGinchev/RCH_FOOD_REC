@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>three cup chicken</name>
+<filename>247_327833</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>8</x1>
+<y1>52</y1>
+<x2>414</x2>
+<y2>492</y2>
+</bndbox>
+</object>
+</annotation>

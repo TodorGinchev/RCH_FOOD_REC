@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>oden</name>
+<filename>39_3795</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>77</x1>
+<y1>120</y1>
+<x2>377</x2>
+<y2>345</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chicken nugget</name>
+<filename>130_82664</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>43</x1>
+<y1>85</y1>
+<x2>417</x2>
+<y2>445</y2>
+</bndbox>
+</object>
+</annotation>

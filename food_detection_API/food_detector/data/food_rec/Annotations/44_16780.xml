@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>teriyaki grilled fish</name>
+<filename>44_16780</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>89</y1>
+<x2>333</x2>
+<y2>223</y2>
+</bndbox>
+</object>
+</annotation>

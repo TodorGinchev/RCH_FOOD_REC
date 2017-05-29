@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>miso soup</name>
+<filename>36_14987</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>4</x1>
+<y1>26</y1>
+<x2>172</x2>
+<y2>184</y2>
+</bndbox>
+</object>
+</annotation>

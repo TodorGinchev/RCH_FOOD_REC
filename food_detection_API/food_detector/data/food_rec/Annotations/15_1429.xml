@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>raisin bread</name>
+<filename>15_1429</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>233</x1>
+<y1>260</y1>
+<x2>480</x2>
+<y2>532</y2>
+</bndbox>
+</object>
+</annotation>

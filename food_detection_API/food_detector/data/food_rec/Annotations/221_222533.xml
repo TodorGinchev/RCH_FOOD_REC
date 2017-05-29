@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>oxtail soup</name>
+<filename>221_222533</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>43</x1>
+<y1>27</y1>
+<x2>345</x2>
+<y2>218</y2>
+</bndbox>
+</object>
+</annotation>

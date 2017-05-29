@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>steamed spareribs</name>
+<filename>253_339826</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>11</x1>
+<y1>66</y1>
+<x2>579</x2>
+<y2>374</y2>
+</bndbox>
+</object>
+</annotation>

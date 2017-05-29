@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>apple pie</name>
+<filename>162_34339</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>66</x1>
+<y1>71</y1>
+<x2>548</x2>
+<y2>355</y2>
+</bndbox>
+</object>
+</annotation>

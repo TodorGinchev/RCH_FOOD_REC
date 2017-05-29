@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>kung pao chicken</name>
+<filename>244_325090</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>45</y1>
+<x2>393</x2>
+<y2>244</y2>
+</bndbox>
+</object>
+</annotation>

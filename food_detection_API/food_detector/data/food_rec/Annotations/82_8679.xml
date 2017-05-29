@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>omelet with fried rice</name>
+<filename>82_8679</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>15</x1>
+<y1>65</y1>
+<x2>231</x2>
+<y2>180</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>hamburger</name>
+<filename>17_13785</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>461</x1>
+<y1>36</y1>
+<x2>721</x2>
+<y2>290</y2>
+</bndbox>
+</object>
+</annotation>

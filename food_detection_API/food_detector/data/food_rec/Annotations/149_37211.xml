@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>nachos</name>
+<filename>149_37211</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>7</x1>
+<y1>52</y1>
+<x2>490</x2>
+<y2>458</y2>
+</bndbox>
+</object>
+</annotation>

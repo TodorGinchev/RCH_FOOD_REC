@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>udon noodle</name>
+<filename>20_14039</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>543</x1>
+<y1>315</y1>
+<x2>778</x2>
+<y2>540</y2>
+</bndbox>
+</object>
+</annotation>

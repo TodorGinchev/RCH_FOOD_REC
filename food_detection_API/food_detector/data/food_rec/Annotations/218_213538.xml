@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>malasada</name>
+<filename>218_213538</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>8</x1>
+<y1>37</y1>
+<x2>362</x2>
+<y2>487</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>mie ayam</name>
+<filename>233_254606</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>42</y1>
+<x2>462</x2>
+<y2>353</y2>
+</bndbox>
+</object>
+</annotation>

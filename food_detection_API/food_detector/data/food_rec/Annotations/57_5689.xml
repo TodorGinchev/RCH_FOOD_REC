@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>nanbanzuke</name>
+<filename>57_5689</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>44</x1>
+<y1>77</y1>
+<x2>255</x2>
+<y2>291</y2>
+</bndbox>
+</object>
+</annotation>

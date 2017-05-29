@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>stew</name>
+<filename>43_13759</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>4</x1>
+<y1>73</y1>
+<x2>392</x2>
+<y2>381</y2>
+</bndbox>
+</object>
+</annotation>

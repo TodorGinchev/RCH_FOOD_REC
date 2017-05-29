@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>oshiruko</name>
+<filename>157_30624</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>104</x1>
+<y1>33</y1>
+<x2>444</x2>
+<y2>365</y2>
+</bndbox>
+</object>
+</annotation>

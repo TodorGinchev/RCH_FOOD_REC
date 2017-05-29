@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>almond jelly</name>
+<filename>104_1926</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>120</y1>
+<x2>411</x2>
+<y2>521</y2>
+</bndbox>
+</object>
+</annotation>

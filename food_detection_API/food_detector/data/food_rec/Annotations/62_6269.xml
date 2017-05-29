@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>dried fish</name>
+<filename>62_6269</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>5</x1>
+<y1>0</y1>
+<x2>775</x2>
+<y2>456</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>scrambled egg</name>
+<filename>151_92232</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>8</x1>
+<y1>61</y1>
+<x2>401</x2>
+<y2>576</y2>
+</bndbox>
+</object>
+</annotation>

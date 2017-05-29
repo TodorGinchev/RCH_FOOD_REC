@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>jiaozi</name>
+<filename>42_4144</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>60</x1>
+<y1>0</y1>
+<x2>565</x2>
+<y2>300</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>fried mussel pancakes</name>
+<filename>196_133086</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>28</x1>
+<y1>39</y1>
+<x2>473</x2>
+<y2>458</y2>
+</bndbox>
+</object>
+</annotation>

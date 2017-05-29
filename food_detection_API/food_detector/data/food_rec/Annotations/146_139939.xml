@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>scone</name>
+<filename>146_139939</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>2</x1>
+<y1>52</y1>
+<x2>416</x2>
+<y2>567</y2>
+</bndbox>
+</object>
+</annotation>

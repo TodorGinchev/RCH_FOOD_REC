@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>stir-fried mixed vegetables</name>
+<filename>187_265160</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>79</x1>
+<y1>13</y1>
+<x2>618</x2>
+<y2>368</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>croquette</name>
+<filename>32_3181</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>280</x1>
+<y1>162</y1>
+<x2>785</x2>
+<y2>570</y2>
+</bndbox>
+</object>
+</annotation>

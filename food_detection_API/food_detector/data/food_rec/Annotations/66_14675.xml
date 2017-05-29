@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>cabbage roll</name>
+<filename>66_14675</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>308</x1>
+<y1>195</y1>
+<x2>541</x2>
+<y2>407</y2>
+</bndbox>
+</object>
+</annotation>

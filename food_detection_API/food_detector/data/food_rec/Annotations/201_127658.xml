@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Wonton soup</name>
+<filename>201_127658</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>28</x1>
+<y1>39</y1>
+<x2>454</x2>
+<y2>450</y2>
+</bndbox>
+</object>
+</annotation>

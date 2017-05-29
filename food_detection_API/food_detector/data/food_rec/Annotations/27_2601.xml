@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>spaghetti</name>
+<filename>27_2601</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>61</x1>
+<y1>61</y1>
+<x2>626</x2>
+<y2>477</y2>
+</bndbox>
+</object>
+</annotation>

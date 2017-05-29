@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>potato salad</name>
+<filename>86_14626</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>252</x1>
+<y1>104</y1>
+<x2>384</x2>
+<y2>234</y2>
+</bndbox>
+</object>
+</annotation>

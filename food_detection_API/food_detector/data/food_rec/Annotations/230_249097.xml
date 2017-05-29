@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>bubur ayam</name>
+<filename>230_249097</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>45</x1>
+<y1>53</y1>
+<x2>462</x2>
+<y2>325</y2>
+</bndbox>
+</object>
+</annotation>

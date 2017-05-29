@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>chinese soup</name>
+<filename>91_15732</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>402</x1>
+<y1>155</y1>
+<x2>591</x2>
+<y2>314</y2>
+</bndbox>
+</object>
+</annotation>

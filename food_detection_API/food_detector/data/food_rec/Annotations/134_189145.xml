@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>broiled eel bowl</name>
+<filename>134_189145</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>14</x1>
+<y1>75</y1>
+<x2>540</x2>
+<y2>418</y2>
+</bndbox>
+</object>
+</annotation>

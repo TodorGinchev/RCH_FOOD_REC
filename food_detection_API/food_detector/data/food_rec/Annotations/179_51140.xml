@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>trunip pudding</name>
+<filename>179_51140</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>12</x1>
+<y1>110</y1>
+<x2>551</x2>
+<y2>414</y2>
+</bndbox>
+</object>
+</annotation>

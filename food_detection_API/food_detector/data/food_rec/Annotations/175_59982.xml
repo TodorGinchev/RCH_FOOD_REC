@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>minced pork rice</name>
+<filename>175_59982</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>40</x1>
+<y1>55</y1>
+<x2>454</x2>
+<y2>311</y2>
+</bndbox>
+</object>
+</annotation>

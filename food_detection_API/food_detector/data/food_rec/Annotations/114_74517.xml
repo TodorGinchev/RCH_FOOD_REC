@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pancake</name>
+<filename>114_74517</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>6</x1>
+<y1>24</y1>
+<x2>373</x2>
+<y2>608</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>beef in oyster sauce</name>
+<filename>188_64044</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>87</x1>
+<y1>98</y1>
+<x2>470</x2>
+<y2>386</y2>
+</bndbox>
+</object>
+</annotation>

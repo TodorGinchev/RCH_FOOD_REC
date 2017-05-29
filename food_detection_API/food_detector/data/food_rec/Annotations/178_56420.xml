@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>glutinous oil rice</name>
+<filename>178_56420</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>118</x1>
+<y1>49</y1>
+<x2>506</x2>
+<y2>350</y2>
+</bndbox>
+</object>
+</annotation>

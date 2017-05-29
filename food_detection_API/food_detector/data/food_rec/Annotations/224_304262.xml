@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>brownie</name>
+<filename>224_304262</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>53</x1>
+<y1>54</y1>
+<x2>460</x2>
+<y2>493</y2>
+</bndbox>
+</object>
+</annotation>

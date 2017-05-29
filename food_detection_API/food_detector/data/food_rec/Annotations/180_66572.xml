@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>stinky tofu</name>
+<filename>180_66572</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>49</x1>
+<y1>13</y1>
+<x2>682</x2>
+<y2>283</y2>
+</bndbox>
+</object>
+</annotation>

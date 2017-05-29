@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>lasagna</name>
+<filename>153_144390</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>37</x1>
+<y1>7</y1>
+<x2>544</x2>
+<y2>413</y2>
+</bndbox>
+</object>
+</annotation>

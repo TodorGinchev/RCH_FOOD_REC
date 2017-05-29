@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>lumpia</name>
+<filename>223_276084</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>23</x1>
+<y1>29</y1>
+<x2>462</x2>
+<y2>462</y2>
+</bndbox>
+</object>
+</annotation>

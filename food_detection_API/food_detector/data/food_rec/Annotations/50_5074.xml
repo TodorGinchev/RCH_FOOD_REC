@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sukiyaki</name>
+<filename>50_5074</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>0</x1>
+<y1>173</y1>
+<x2>349</x2>
+<y2>441</y2>
+</bndbox>
+</object>
+</annotation>

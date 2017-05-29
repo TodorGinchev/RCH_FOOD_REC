@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sashimi</name>
+<filename>48_4744</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>38</x1>
+<y1>0</y1>
+<x2>800</x2>
+<y2>560</y2>
+</bndbox>
+</object>
+</annotation>

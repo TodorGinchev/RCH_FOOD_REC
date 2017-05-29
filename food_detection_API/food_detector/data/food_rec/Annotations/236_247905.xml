@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>nasi padang</name>
+<filename>236_247905</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>14</y1>
+<x2>479</x2>
+<y2>485</y2>
+</bndbox>
+</object>
+</annotation>

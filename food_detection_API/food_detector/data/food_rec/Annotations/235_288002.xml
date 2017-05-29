@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>nasi campur</name>
+<filename>235_288002</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>18</x1>
+<y1>9</y1>
+<x2>567</x2>
+<y2>405</y2>
+</bndbox>
+</object>
+</annotation>

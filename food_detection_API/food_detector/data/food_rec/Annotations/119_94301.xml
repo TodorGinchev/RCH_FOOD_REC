@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>rare cheese cake</name>
+<filename>119_94301</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>78</x1>
+<y1>30</y1>
+<x2>346</x2>
+<y2>232</y2>
+</bndbox>
+</object>
+</annotation>

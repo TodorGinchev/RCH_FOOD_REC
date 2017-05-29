@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>eels on rice</name>
+<filename>2_15481</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>41</x1>
+<y1>33</y1>
+<x2>531</x2>
+<y2>442</y2>
+</bndbox>
+</object>
+</annotation>

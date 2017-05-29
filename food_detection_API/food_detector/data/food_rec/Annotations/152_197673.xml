@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>rice gratin</name>
+<filename>152_197673</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>25</x1>
+<y1>10</y1>
+<x2>476</x2>
+<y2>357</y2>
+</bndbox>
+</object>
+</annotation>

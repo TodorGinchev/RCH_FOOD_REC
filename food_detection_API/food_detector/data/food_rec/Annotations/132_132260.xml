@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>french bread</name>
+<filename>132_132260</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>9</x1>
+<y1>6</y1>
+<x2>573</x2>
+<y2>395</y2>
+</bndbox>
+</object>
+</annotation>

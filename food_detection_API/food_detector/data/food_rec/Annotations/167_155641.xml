@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>roast duck</name>
+<filename>167_155641</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>15</x1>
+<y1>18</y1>
+<x2>476</x2>
+<y2>363</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>braised pork meat ball with napa cabbage</name>
+<filename>251_335988</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>21</x1>
+<y1>7</y1>
+<x2>345</x2>
+<y2>231</y2>
+</bndbox>
+</object>
+</annotation>

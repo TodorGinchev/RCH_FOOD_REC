@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Thai papaya salad</name>
+<filename>184_180491</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>10</x1>
+<y1>18</y1>
+<x2>359</x2>
+<y2>433</y2>
+</bndbox>
+</object>
+</annotation>

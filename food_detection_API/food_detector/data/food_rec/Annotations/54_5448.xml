@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tempura</name>
+<filename>54_5448</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>31</x1>
+<y1>18</y1>
+<x2>763</x2>
+<y2>587</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pilaf</name>
+<filename>3_13792</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>172</x1>
+<y1>220</y1>
+<x2>436</x2>
+<y2>380</y2>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>Rice crispy pork</name>
+<filename>200_65888</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>17</x1>
+<y1>30</y1>
+<x2>294</x2>
+<y2>383</y2>
+</bndbox>
+</object>
+</annotation>

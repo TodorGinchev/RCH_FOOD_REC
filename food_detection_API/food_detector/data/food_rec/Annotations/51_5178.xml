@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>sweet and sour pork</name>
+<filename>51_5178</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>63</x1>
+<y1>114</y1>
+<x2>390</x2>
+<y2>259</y2>
+</bndbox>
+</object>
+</annotation>

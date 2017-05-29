@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>tiramisu</name>
+<filename>117_98275</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>3</x1>
+<y1>15</y1>
+<x2>298</x2>
+<y2>286</y2>
+</bndbox>
+</object>
+</annotation>

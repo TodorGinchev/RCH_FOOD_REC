@@ -1,0 +1,13 @@
+<annotation>
+<object>
+<name>pork satay</name>
+<filename>189_215894</filename>
+<difficult>0</difficult>
+<bndbox>
+<x1>4</x1>
+<y1>94</y1>
+<x2>460</x2>
+<y2>504</y2>
+</bndbox>
+</object>
+</annotation>
