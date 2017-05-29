@@ -41,6 +41,6 @@ AndroidApp/FoodDiary/.gradle/
 *.pyc
 *.jpg
 *.JPEG
-food_detector/output/
+food_detection_API/food_detector/output/
 *.caffemodel
 *.tgz
