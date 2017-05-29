@@ -4,7 +4,8 @@
 
     <uses-feature android:name="android.hardware.camera"
         android:required="false" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -16,6 +17,19 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity"
                   android:screenOrientation="sensorPortrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".InstantPhotoCaptureActivity"
+            android:screenOrientation="sensorPortrait"
+            android:icon="@drawable/instant_photo_capture_icon"
+            android:label="@string/InstantPhotoCaptureActivityName"
+            >
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

@@ -11,7 +11,6 @@ import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.View;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,8 +18,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-//Follow this tutorial if you need to implement changes: https://developer.android.com/training/camera/photobasics.html
-public class MainActivity extends AppCompatActivity {
+/**
+ * Created by Todor on 19/04/2017.
+ */
+
+public class InstantPhotoCaptureActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";
     public static Context mContext;
     public Uri photoURI;
@@ -30,13 +32,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mContext=this;
-
+        dispatchTakePictureIntent();
     }
 
     // Code for taking a photo
     static final int REQUEST_TAKE_PHOTO  = 1;
-    public void dispatchTakePictureIntent(View v) {
-        Log.i(TAG,"PdispatchTakePictureIntent");
+    public void dispatchTakePictureIntent() {
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
 
         // Ensure that there's a camera activity to handle the intent
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 photoFile = createImageFile();
             } catch (IOException ex) {
                 // Error occurred while creating the File
-                Log.e(TAG," ",ex);
+                //TODO...
             }
             // Continue only if the File was successfully created
             if (photoFile != null) {
@@ -65,8 +66,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(takePictureIntent, REQUEST_TAKE_PHOTO);
             }
         }
-        else
-            Log.e (TAG,"takePictureIntent.resolveActivity(getPackageManager()) = null");
     }
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -76,8 +75,10 @@ public class MainActivity extends AppCompatActivity {
                 Log.i(TAG,"Photo located at "+mCurrentPhotoPath);
                 Uploader.uploadImage(mCurrentPhotoPath, mContext);
             } else if (resultCode == RESULT_CANCELED) {
+                //TODO
                 // User cancelled the image capture
             } else {
+                //TODO
                 // Image capture failed, advise user
             }
         }
@@ -87,15 +88,12 @@ public class MainActivity extends AppCompatActivity {
     String mCurrentPhotoPath;
 
     private File createImageFile() throws IOException {
-        //TODO ASK FOR PERMISSION TO WRITE EXTERNAL STORAGE
         // Create an image file name
         String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
         String imageFileName = "PRECIOUS_JPEG_" + timeStamp + "_";
         File ext_storage = Environment.getExternalStorageDirectory();
         String extPath = ext_storage.getPath();
         File storageDir = new File(extPath+"/precious");//REMEMBER TO CHANGE res/xml/file.paths.xml to ynchronize both implementations
-        if(!storageDir.exists())
-            storageDir.mkdir();
         File image = File.createTempFile(
                 imageFileName,  /* prefix */
                 ".jpg",         /* suffix */
@@ -107,6 +105,4 @@ public class MainActivity extends AppCompatActivity {
 
         return image;
     }
-
 }
-
